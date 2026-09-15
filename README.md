@@ -1,33 +1,38 @@
 <h1 align="center"> Olá, eu sou o João Paulo Sampaio 👋 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Estudante+de+Sistemas;Focado+em+Backend" alt="Typing SVG" />
-  </a>
+  <i>Desenvolvedor Backend | Estudante de Análise e Desenvolvimento de Sistemas</i>
 </p>
 
-> Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta do desenvolvimento backend com **Python**. Busco criar soluções eficientes, automatizadas e bem estruturadas.
+---
+
+### 📌 Perfil Profissional
+
+Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta do desenvolvimento backend com **Python**. Busco criar soluções eficientes, automatizadas e bem estruturadas. Além do código, tenho forte interesse em entender a arquitetura dos sistemas, segurança (como gestão de identidades e diretórios) e infraestrutura.
+
+- 🎓 Cursando **ADS (Análise e Desenvolvimento de Sistemas)**
+- 🐍 Especializado em **Python Avançado** (Automação, Manipulação de Dados e POO)
+- 🎯 Focado em **Arquitetura de Software** e **Desenvolvimento Backend**
+- 🚀 Desenvolvendo projetos paralelos envolvendo scripts interativos (como **Lua/Luau**) e integrações.
+- 📍 Baseado em Belo Horizonte, MG - Brasil
 
 ---
 
 ### 💻 Tech Stack & Ferramentas
 
+**Linguagens & Dados:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</p>
+
+**Ferramentas & Versionamento:**
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
-### 📌 Sobre mim
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🐍 Especializado em **Python Avançado** (Automação, Manipulação de Dados e POO)
-- 🎯 Focado em aprender arquitetura de software e desenvolvimento backend
-- 📍 Baseado em Belo Horizonte, MG - Brasil
 
 ---
 
