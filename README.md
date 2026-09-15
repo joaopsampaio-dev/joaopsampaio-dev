@@ -41,11 +41,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta do desenvol
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚀 Meu Foco Atual
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopsampaio-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopsampaio-dev&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" height="150"/>
-</p>
+- 🔭 Desenvolvendo **soluções de backend e automações com Python**
+- 🌱 Aprofundando conhecimentos em **Arquitetura de Software e SQL**
+- 🧩 Explorando lógicas de scripts integrados e programação orientada a objetos
+- ⚡ Curiosidade: Gosto de investigar os "bastidores" dos sistemas e otimizar a infraestrutura.
 
 </div>
